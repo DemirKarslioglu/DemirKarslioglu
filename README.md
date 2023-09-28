@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DemirKarslioglu
+- 🌍 I live in Istanbul, Turkey
+- 🧠 I'm a student in Enka Schools
+- 👀 I’m interested in python
+- 🌌 I'm also interested in astronomy and origami
+- 🌱 I’m currently learning pygame
+- 💞️ I’m looking to collaborate on a pygame project
